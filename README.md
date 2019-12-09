@@ -1,0 +1,1 @@
+# Azure_VMSS_with_PhotonServer
